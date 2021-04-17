@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiankwok&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiankwok&theme=dark&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
