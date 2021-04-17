@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zhixiankwok@gmail.com
 <!-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf) -->
 
-**Languages and Tools:** 
+**Languages and Tools:**   
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiankwok&theme=dark&hide=TeX&layout=compact)   
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
