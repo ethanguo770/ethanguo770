@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <!-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf) -->
 
 **Languages and Tools:** 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiankwok&theme=dark&hide=TeX&layout=compact)   
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -28,6 +29,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixiankwok&theme=dark&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+
