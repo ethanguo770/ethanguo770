@@ -1,5 +1,6 @@
-### Hi there 👋
+
 <!--
+### Hi there 👋
 **ZhixianKwok/ZhixianKwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=zhixiankwok&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=zhixiankwok&theme=dark&hide_border=false&count_private=true&show_icons=true&include_all_commits=true)
 
 - 🔭 I’m currently researching at the intersection of vue and webgl
 - 📫 How to reach me: zhixiankwok@gmail.com
